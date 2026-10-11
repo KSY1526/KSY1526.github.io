@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ksy1526.github.io/bomde-lab/sitemap-index.xml
